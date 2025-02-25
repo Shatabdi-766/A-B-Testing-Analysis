@@ -1,4 +1,4 @@
-# 🎯 A/B Testing Analysis – Data-Driven Decision Making  
+# 🎯 A/B Testing Analysis  
 
 Ever wondered how businesses decide which version of a product, website, or marketing strategy works best? That’s where **A/B Testing** comes in! 🚀  
 
